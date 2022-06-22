@@ -1,7 +1,50 @@
 * {
-    font-size: 16px;
-    color: #fff;
-    background-color: rgb(29, 24, 24);
-    font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    border: none;
+    background-color: rgb(175, 170, 170);
+    color: #61122F;
+}
+
+body {
+    background-color: #ffffff;
+    color: white;
+}
+
+.navbar .navbar-brand {
+    color: black;
+}
+
+.glyphicon {
+    font-size: 30px;
+    color: #61122F;
+}
+
+.center {
+    width: 90%;
+    background-color: grey;
+}
+
+.container {
+    background-color: rgb(31, 10, 126);
+}
+
+.text-center {
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#myNavbar ul li a,
+#myNavbar ul li span {
+    color: #0c09b6;
+}
+
+.navbar-brand {
+    font-size: 30px;
 }
