@@ -40,7 +40,11 @@ h2 {
     text-align: center;
 }
 
-#myNavbar ul li a,
+#myNavbar ul li a {
+    color: black;
+    font-weight: bold;
+}
+
 #myNavbar ul li span {
     color: #0c09b6;
 }
